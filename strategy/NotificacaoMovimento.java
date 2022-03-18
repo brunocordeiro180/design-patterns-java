@@ -1,5 +1,3 @@
-package strategy.com.strategy;
-
 public class NotificacaoMovimento implements NotificacaoStrategy {
     
     public void gerarNotificacao() {

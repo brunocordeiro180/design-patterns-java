@@ -1,4 +1,4 @@
-package main;
+
 
 public abstract class Network{
     String userName;

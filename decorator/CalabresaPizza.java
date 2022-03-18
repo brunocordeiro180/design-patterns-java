@@ -1,5 +1,3 @@
-package decorator.com.decorator;
-
 public class CalabresaPizza extends PizzaDecorator {
 
     public CalabresaPizza(PizzaInterface pizzaInterface){

@@ -1,5 +1,3 @@
-package decorator.com.decorator;
-
 public class MussarelaPizza extends PizzaDecorator {
 
     public MussarelaPizza(PizzaInterface pizzaInterface){

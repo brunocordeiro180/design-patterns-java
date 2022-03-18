@@ -1,5 +1,3 @@
-package strategy.com.strategy;
-
 class Main {
     public static void main(String[] args) {
         NotificacaoStrategy notificacaoMovimento = new NotificacaoMovimento();

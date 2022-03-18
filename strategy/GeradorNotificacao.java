@@ -1,5 +1,3 @@
-package strategy.com.strategy;
-
 public class GeradorNotificacao {
 
     NotificacaoStrategy strategy;

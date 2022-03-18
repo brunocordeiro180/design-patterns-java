@@ -1,5 +1,3 @@
-package builder.com.builder;
-
 public class Main {
     public static void main(String[] args) {
         System.out.println("oi mundo");

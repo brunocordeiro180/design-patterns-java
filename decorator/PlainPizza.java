@@ -1,5 +1,3 @@
-package decorator.com.decorator;
-
 public class PlainPizza implements PizzaInterface {
     
     @Override

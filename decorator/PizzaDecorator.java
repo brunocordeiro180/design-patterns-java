@@ -1,5 +1,3 @@
-package decorator.com.decorator;
-
 public abstract class PizzaDecorator implements PizzaInterface {
 
     protected PizzaInterface pizza;
