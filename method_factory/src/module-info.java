@@ -1,0 +1,2 @@
+module method_factory {
+}
